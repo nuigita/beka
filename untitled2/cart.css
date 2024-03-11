@@ -1,0 +1,42 @@
+
+/* Стили для корзины */
+.cart-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.cart-item h3 {
+    margin-top: 0;
+}
+
+.cart-item p {
+    margin-bottom: 5px;
+}
+
+/* Стили для заголовка корзины */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Стили для навигации */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #555;
+}
